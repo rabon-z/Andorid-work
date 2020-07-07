@@ -1,0 +1,20 @@
+public int count(View root) {
+        int vCount = 0;
+        if (null == root) {
+            return 0;
+        }
+ 
+        if (root instanceof ViewGroup) {
+            vCount++;
+            for (int i = 0; i < ((ViewGroup) root).getChildCount(); i++) {
+                View view = ((ViewGroup) root).getChildAt(i);
+                if (view instanceof ViewGroup) {
+                    vCount = count(view);
+                } else {
+                    vCount++;
+                }
+            }
+        }
+ 
+        return vCount;
+    }
