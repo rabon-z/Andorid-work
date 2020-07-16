@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../短学期/android-gradle-plugin-3.5.0-beta01/caches/transforms-2/files-2.1/916986d5e10936bbe294a1f5706a2aaf/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../短学期/android-gradle-plugin-3.5.0-beta01/caches/transforms-2/files-2.1/916986d5e10936bbe294a1f5706a2aaf/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../短学期/android-gradle-plugin-3.5.0-beta01/caches/transforms-2/files-2.1/916986d5e10936bbe294a1f5706a2aaf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
