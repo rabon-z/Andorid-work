@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tik Tok</string>
+    <string name="request_data">Request Data</string>
+    <string name="requesting">Refreshing…</string>
+    <string name="select_an_image">Upload</string>
+    <string name="select_a_video">Select Videos</string>
+    <string name="post_it">Upload</string>
+    <string name="select_myself">My Videos</string>
+    <string name="refresh_feed">Refresh</string>
+    <string name="success_try_refresh">Successful!</string>
+</resources>

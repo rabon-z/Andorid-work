@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [:lib] C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\916986d5e10936bbe294a1f5706a2aaf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\9cd44a82c4a765e2ffde3c8bfa37be45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\55782eb1e61744553cf409bfe0d587dc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\6f129b66263fef09bbb54add85a81b28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\da63b82ad7dd9184d5628a9b13c1a87c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\762c5867ef49da776cb07681a3bcbe47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bf0df9ad5dbc7e3b96ec30bcd87f56bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\a44d7035e95dcae4afcc23cb6d409516\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\2dffa23131b23390f7c38309aae7b921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\f079576bc24f766db2cf8f376e0eda4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bec7ee894c8cb12bd1c6cd159b045127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\dda8e7f7af93fa0e6d66771a9231b542\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\ab6e7d7e07307776714bb75bc83f253f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\157c0ab3d99850e0343957426e84c6ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\3147f5668184e825d3f632bb39b5f28d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\b2efd1bed6f16b9f873c6de1b6518237\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\5d25bf507ffe020dda69c4fa69d49ca8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\df740a585630c87a88d272da7c835628\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\36b3ee0d3a4e9b02273a089a066f8c70\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8cdf5ad764d15f5fc05a2c6411f65a6e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\ff0def52ee6585dbef7bcc2d0a59c0ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\0a0fac218f6998ffac199b9423bd35a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\4bf29b062709df4683eb5a4c29823c92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\1d7cd3df1ad04ee64d5e167d7eea0d62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\654113a8238f842588700a5cb6d79679\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\c76c9eedf2f600f6da304136a7178b5f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8e276b69d090a7ba7af8d18a23940345\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\46b311452231e5105db5aa81cc266a9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\d8ee8490d9b5189d6ac80f29d231bede\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\4a0e78d4a7f42d733100d28e5b2af9e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\53882fb836db0d1ee7b3deed25f7d6b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\17933e04a4a7c3ed33d6234167ee5844\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bac4c4a0d793cd706426c18a1dd6a1a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\eff56216081578b729d551bf86d415d5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:4:5-52
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:12:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\916986d5e10936bbe294a1f5706a2aaf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\916986d5e10936bbe294a1f5706a2aaf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\55782eb1e61744553cf409bfe0d587dc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\55782eb1e61744553cf409bfe0d587dc\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:24:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\36b3ee0d3a4e9b02273a089a066f8c70\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\36b3ee0d3a4e9b02273a089a066f8c70\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8cdf5ad764d15f5fc05a2c6411f65a6e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8cdf5ad764d15f5fc05a2c6411f65a6e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\36b3ee0d3a4e9b02273a089a066f8c70\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:20:9-48
+	android:roundIcon
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:16:9-53
+	android:icon
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:14:9-47
+	android:allowBackup
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:19:9-44
+activity#com.bytedance.androidcamp.network.dou.MainActivity
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:21:19-47
+activity#com.bytedance.androidcamp.network.dou.LoginActivity
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:22:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:26:27-74
+activity#com.bytedance.androidcamp.network.dou.VideoActivity
+ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml:29:19-48
+uses-sdk
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+MERGED from [:lib] C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:lib] C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\lib\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\916986d5e10936bbe294a1f5706a2aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\916986d5e10936bbe294a1f5706a2aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\9cd44a82c4a765e2ffde3c8bfa37be45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\9cd44a82c4a765e2ffde3c8bfa37be45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\55782eb1e61744553cf409bfe0d587dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\55782eb1e61744553cf409bfe0d587dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\6f129b66263fef09bbb54add85a81b28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\6f129b66263fef09bbb54add85a81b28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\da63b82ad7dd9184d5628a9b13c1a87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\da63b82ad7dd9184d5628a9b13c1a87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\762c5867ef49da776cb07681a3bcbe47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\762c5867ef49da776cb07681a3bcbe47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bf0df9ad5dbc7e3b96ec30bcd87f56bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bf0df9ad5dbc7e3b96ec30bcd87f56bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\a44d7035e95dcae4afcc23cb6d409516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\a44d7035e95dcae4afcc23cb6d409516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\2dffa23131b23390f7c38309aae7b921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\2dffa23131b23390f7c38309aae7b921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\f079576bc24f766db2cf8f376e0eda4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\f079576bc24f766db2cf8f376e0eda4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bec7ee894c8cb12bd1c6cd159b045127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bec7ee894c8cb12bd1c6cd159b045127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\dda8e7f7af93fa0e6d66771a9231b542\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\dda8e7f7af93fa0e6d66771a9231b542\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\ab6e7d7e07307776714bb75bc83f253f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\ab6e7d7e07307776714bb75bc83f253f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\157c0ab3d99850e0343957426e84c6ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\157c0ab3d99850e0343957426e84c6ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\3147f5668184e825d3f632bb39b5f28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\3147f5668184e825d3f632bb39b5f28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\b2efd1bed6f16b9f873c6de1b6518237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\b2efd1bed6f16b9f873c6de1b6518237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\5d25bf507ffe020dda69c4fa69d49ca8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\5d25bf507ffe020dda69c4fa69d49ca8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\df740a585630c87a88d272da7c835628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\df740a585630c87a88d272da7c835628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\36b3ee0d3a4e9b02273a089a066f8c70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\36b3ee0d3a4e9b02273a089a066f8c70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8cdf5ad764d15f5fc05a2c6411f65a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8cdf5ad764d15f5fc05a2c6411f65a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\ff0def52ee6585dbef7bcc2d0a59c0ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\ff0def52ee6585dbef7bcc2d0a59c0ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\0a0fac218f6998ffac199b9423bd35a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\0a0fac218f6998ffac199b9423bd35a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\4bf29b062709df4683eb5a4c29823c92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\4bf29b062709df4683eb5a4c29823c92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\1d7cd3df1ad04ee64d5e167d7eea0d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\1d7cd3df1ad04ee64d5e167d7eea0d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\654113a8238f842588700a5cb6d79679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\654113a8238f842588700a5cb6d79679\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\c76c9eedf2f600f6da304136a7178b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\c76c9eedf2f600f6da304136a7178b5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8e276b69d090a7ba7af8d18a23940345\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\8e276b69d090a7ba7af8d18a23940345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\46b311452231e5105db5aa81cc266a9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\46b311452231e5105db5aa81cc266a9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\d8ee8490d9b5189d6ac80f29d231bede\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\d8ee8490d9b5189d6ac80f29d231bede\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\4a0e78d4a7f42d733100d28e5b2af9e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\4a0e78d4a7f42d733100d28e5b2af9e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\53882fb836db0d1ee7b3deed25f7d6b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\53882fb836db0d1ee7b3deed25f7d6b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\17933e04a4a7c3ed33d6234167ee5844\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\17933e04a4a7c3ed33d6234167ee5844\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bac4c4a0d793cd706426c18a1dd6a1a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\bac4c4a0d793cd706426c18a1dd6a1a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\eff56216081578b729d551bf86d415d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\eff56216081578b729d551bf86d415d5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		ADDED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\z\Desktop\res\Tik_Tok\Tik Tok\Tik Tok\dou\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\z\Desktop\短学期\android-gradle-plugin-3.5.0-beta01\caches\transforms-2\files-2.1\11d87b6cdc12d718e3c9af93c4d395d3\AndroidManifest.xml:26:13-74

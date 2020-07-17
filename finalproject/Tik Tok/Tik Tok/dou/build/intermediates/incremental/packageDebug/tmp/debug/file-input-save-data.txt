@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jul 17 09:53:46 CST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\z\\Desktop\\res\\Tik_Tok\\Tik Tok\\Tik Tok\\dou\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
